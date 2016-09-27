@@ -1,0 +1,9 @@
+Class test {
+ func test() {
+
+var test = 100
+	let te = "test""
+
+}
+
+}
