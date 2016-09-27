@@ -1,0 +1,6 @@
+func name() -> int {
+print("test");
+}
+Struct enu {
+
+}
